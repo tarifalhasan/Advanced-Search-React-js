@@ -1,0 +1,38 @@
+body {
+  background-color: #edf1fa !important;
+}
+main {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.py-10 {
+  padding: 2rem 0;
+}
+.text-white {
+  color: #fff;
+}
+.border-bottom {
+  border-bottom: 2px solid #f8f9fa !important;
+  border-radius: 0px !important;
+}
+.px-10px {
+  padding: 10px 0;
+}
+.mx-auto {
+  margin: 0 auto;
+}
+.w-full {
+  width: 100% !important;
+}
+.w-35 {
+  width: 40% !important;
+}
+.my-10 {
+  margin: 43px 0;
+}
+.active--link {
+  border-left: 2px solid red;
+}
+svg.bar_code {
+  max-width: 240px !important;
+}
